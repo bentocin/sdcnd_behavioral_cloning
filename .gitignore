@@ -2,3 +2,7 @@ windows_sim/
 data/
 example/
 *.pdf
+video/
+model_history/
+.ipynb_checkpoints/
+__pycache__/
